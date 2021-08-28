@@ -10,6 +10,6 @@ public class PersonController {
 
     @GetMapping
     public String getPersont(){
-        return "Api test!";
+        return "Api teste!";
     }
 }
